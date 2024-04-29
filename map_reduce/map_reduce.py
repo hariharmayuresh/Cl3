@@ -1,3 +1,6 @@
+'''Design a distributed application using MapReduce under Hadoop for: a) Character 
+counting in a given text file. b) Counting no. of occurrences of every word in a given text 
+file '''
 
 from mrjob. job import MRJob
 import re
