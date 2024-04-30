@@ -1,0 +1,2 @@
+we implemented a distributed application using MapReduce in Python to perform text analysis tasks such as word count and character count. 
+MapReduce provides a powerful and scalable framework for processing large datasets in parallel across a cluster of machines.
